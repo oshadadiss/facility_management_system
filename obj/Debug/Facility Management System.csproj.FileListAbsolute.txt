@@ -1,0 +1,19 @@
+B:\C#Assignment\Facility Management System\Facility Management System\bin\Debug\Facility Management System.exe.config
+B:\C#Assignment\Facility Management System\Facility Management System\bin\Debug\Facility Management System.exe
+B:\C#Assignment\Facility Management System\Facility Management System\bin\Debug\Facility Management System.pdb
+B:\C#Assignment\Facility Management System\Facility Management System\obj\Debug\Facility Management System.csprojAssemblyReference.cache
+B:\C#Assignment\Facility Management System\Facility Management System\obj\Debug\Facility_Management_System.Form1.resources
+B:\C#Assignment\Facility Management System\Facility Management System\obj\Debug\Facility_Management_System.Properties.Resources.resources
+B:\C#Assignment\Facility Management System\Facility Management System\obj\Debug\Facility Management System.csproj.GenerateResource.cache
+B:\C#Assignment\Facility Management System\Facility Management System\obj\Debug\Facility Management System.csproj.CoreCompileInputs.cache
+B:\C#Assignment\Facility Management System\Facility Management System\obj\Debug\Facility Management System.exe
+B:\C#Assignment\Facility Management System\Facility Management System\obj\Debug\Facility Management System.pdb
+B:\C#Assignment\Facility Management System\Facility Management System\obj\Debug\Facility_Management_System.admin_window.resources
+B:\C#Assignment\Facility Management System\Facility Management System\obj\Debug\Facility_Management_System.app_window.resources
+B:\C#Assignment\Facility Management System\Facility Management System\obj\Debug\Facility_Management_System.SH_window.resources
+B:\C#Assignment\Facility Management System\Facility Management System\obj\Debug\Facility_Management_System.add_account.resources
+B:\C#Assignment\Facility Management System\Facility Management System\obj\Debug\Facility_Management_System.delete_update_account.resources
+B:\C#Assignment\Facility Management System\Facility Management System\obj\Debug\Facility_Management_System.emailrequest.resources
+B:\C#Assignment\Facility Management System\Facility Management System\obj\Debug\Facility_Management_System.pool_vehicle.resources
+B:\C#Assignment\Facility Management System\Facility Management System\obj\Debug\Facility_Management_System.SLTid.resources
+B:\C#Assignment\Facility Management System\Facility Management System\obj\Debug\Facility_Management_System.vehicle_transfer.resources
